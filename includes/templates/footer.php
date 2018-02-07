@@ -36,6 +36,7 @@
 <script src="js/plugins.js"></script>
 <script src="js/main.js"></script>
 <script src="js/jquery.waypoints.min.js"></script>
+<script src="js/jquery.colorbox-min.js"></script>
 <script src="js/jquery.animateNumber.js"></script>
 <script src="js/jquery.countdown.min.js"></script>
 <script src="js/jquery.lettering.js"></script>
